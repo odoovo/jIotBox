@@ -19,8 +19,13 @@ If you are using amd64 or x86 folder.
 Run the application:
 
 Open PowerShell in administrator mode.
+
 Navigate to the directory where you extracted the application.
+
 Run the application with the following command:
+
 java -jar jIotBox.jar
+
 If you encounter any messages or errors, close PowerShell, reopen it in administrator mode, navigate back to the directory, and run the command again.
+
 https://apps.odoovo.com/odoo-apps/pos-kitchen-direct-print-1948

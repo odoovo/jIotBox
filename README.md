@@ -1,5 +1,6 @@
 
 jIotBox
+
 This is a custom application for direct printing from the Point of Sale in Odoo. It includes specific features for kitchen management and POS bill printing.
 
 Features
